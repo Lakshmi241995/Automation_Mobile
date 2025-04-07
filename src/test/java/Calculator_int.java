@@ -17,7 +17,7 @@ public class Calculator_int {
     }
     public static void main(String[] args){
         Calculator_int cal = new Calculator_int();
-        cal.add(5, 5);
+        cal.add(5, 9);
 
     }
 }

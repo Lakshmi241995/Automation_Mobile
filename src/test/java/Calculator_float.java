@@ -17,7 +17,7 @@ public class Calculator_float {
     }
     public static void main(String[] args){
         Calculator_float cal = new Calculator_float();
-        cal.add(5.33f, 5.55f);
+        cal.add(5.33f, 6.55f);
 
     }
 }

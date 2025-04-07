@@ -17,7 +17,7 @@ public class Calculator {
     }
     public static void main(String[] args){
         Calculator cal = new Calculator();
-        cal.add(5, 5, 8.99f);
+        cal.add(5, 5, 9.99f);
 
     }
 }
